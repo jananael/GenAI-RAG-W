@@ -1,1 +1,1 @@
-# GenAI-RAG-Workshop
+# GenAI-RAG
